@@ -1,2 +1,5 @@
 # Hello_World
-This is another Repository.
+Just another Repository.
+
+Hi Everyone!
+A young boy want code.
