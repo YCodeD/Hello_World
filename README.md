@@ -2,4 +2,4 @@
 Just another Repository.
 
 Hi Everyone!
-A young boy want code.
+A young boy want to code.
